@@ -107,6 +107,7 @@ int main()
 				cin >> amount;
 			}
 			
+
 		}
 		while (amount >= 10 & amount < 20) // if the withdraw amount is between $10 and $20
 		{
